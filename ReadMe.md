@@ -1,0 +1,5 @@
+
+
+```Bash
+pip install pyTelegramBotApi
+```
